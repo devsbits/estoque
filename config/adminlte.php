@@ -228,7 +228,7 @@ return [
         // Navbar items:
         [
             'type'         => 'navbar-search',
-            'text'         => 'search',
+            'text'         => 'procurar',
             'topnav_right' => true,
         ],
         [
@@ -304,17 +304,17 @@ return [
         ],
         ['header' => 'labels'],
         [
-            'text'       => 'important',
+            'text'       => 'Importante',
             'icon_color' => 'red',
             'url'        => '#',
         ],
         [
-            'text'       => 'warning',
+            'text'       => 'Atenção',
             'icon_color' => 'yellow',
             'url'        => '#',
         ],
         [
-            'text'       => 'information',
+            'text'       => 'Informação',
             'icon_color' => 'cyan',
             'url'        => '#',
         ],
